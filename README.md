@@ -2,18 +2,6 @@
 
 A comprehensive machine learning-powered weather prediction web application that forecasts weather conditions, temperature, wind speed, humidity, pressure, and other meteorological parameters based on geographic coordinates and current weather data.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Model Details](#model-details)
-- [API Endpoints](#api-endpoints)
-- [Screenshots](#screenshots)
-
 ## 🌟 Overview
 
 This Weather Prediction System is a Flask-based web application that leverages machine learning to predict various weather parameters. The system uses both regression and classification models to provide comprehensive weather forecasts, including temperature, wind speed, humidity, pressure, cloud cover, precipitation, UV index, and weather conditions.
